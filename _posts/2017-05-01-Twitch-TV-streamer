@@ -1,0 +1,15 @@
+---
+title: "Random Quote Generator"
+start: 2017-01-01
+categories: project
+tags: [Jquery, JS,API]
+code: https://github.com/RIBTAS007/Twitch-tv-streamer
+demo: https://ribtas007.github.io/Twitch-tv-streamer/
+image: /img/project-imgs/twitch.jpg
+---
+
+
+This app was developed during the free code camp front end development certification course.
+Twitch is a video live streaming service operated by Twitch Interactive, a subsidiary of Amazon.
+This app tells which channels are currently live and streaming. You can directly click on the channel icon
+to go and watch the live stream. You can use the app from link below.
