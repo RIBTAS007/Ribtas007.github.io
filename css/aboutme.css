@@ -40,7 +40,7 @@
 }
 
 body {
-  background-color: #f1f1f1;
+  background-color: white;
   padding: 20px;
   font-family: Arial;
 }
@@ -97,17 +97,17 @@ h1 {
   border: none;
   outline: none;
   padding: 12px 16px;
-  background-color: white;
+  background-color: blue;
   cursor: pointer;
 }
 
 /* Add a grey background color on mouse-over */
 .btn:hover {
-  background-color: #ddd;
+  background-color: #404040;
 }
 
 /* Add a dark background color to the active button */
 .btn.active {
-  background-color: #666;
+  background-color: green;
    color: white;
 }
