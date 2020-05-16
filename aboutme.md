@@ -42,6 +42,13 @@ css: "/css/aboutme.css"
 </p>
 
 <p class="about-text">
+	<button class="btn btn-lg btn-primary">Submit</button>
+	<button class="btn btn-lg btn-primary">Submit</button>
+	<button class="btn btn-lg btn-primary">Submit</button>
+</p>
+
+
+<p class="about-text">
   <span class="fa fa-briefcase about-icon"></span>
   Interned at <b>Tata Steel Limited, Jamshedpur</b>, created a detailed research report about <a href="https://ribtas007.github.io/SharePoint-and-Office-365/">SharePoint and Office 365</a>.
 </p>
