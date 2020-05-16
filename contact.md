@@ -21,7 +21,7 @@ css: "/css/aboutme.css"
   
   <input type="hidden" name="_subject" value="Someone sent a message on your portfolio website">
   
-  <textarea type="text" name="content" class="form-control input-lg" placeholder="Leave a message for me" title="Message" required="required" rows="3">
+  <textarea type="text" name="content" class="form-control input-lg" placeholder="Leave a message for Satbir" title="Message" required="required" rows="3">
 </textarea>
 
   <input type="text" name="_gotcha" style="display:none">
