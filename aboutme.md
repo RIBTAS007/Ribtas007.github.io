@@ -42,9 +42,14 @@ css: "/css/aboutme.css"
 </p>
 
 <p class="about-text">
-	<button class="btn btn-lg btn-primary">Submit</button>
-	<button class="btn btn-lg btn-primary">Submit</button>
-	<button class="btn btn-lg btn-primary">Submit</button>
+  <span class="fa fa-briefcase about-icon"></span>
+	Mentored for two courses in the Education Outreach Program powered by <a href="https://www.girlscript.tech/home">GirlScript Foundation</a> . Check them out by clicking the link given below
+</p>
+
+<p class="about-text">
+	<button class="btn btn-lg btn-primary"><a href="https://py93.github.io/DSA-for-Interviews-GirlScript-EOP/">DSA for interviews</a></button>
+	&nbsp;
+	<button class="btn btn-lg btn-primary"><a href="https://ribtas007.github.io/GS-EOP-C-programming/">C Programming</a></button>
 </p>
 
 
