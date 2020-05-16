@@ -47,9 +47,9 @@ css: "/css/aboutme.css"
 </p>
 
 <p class="about-text">
-	<button class="btn btn-sm btn-info"><a href="https://py93.github.io/DSA-for-Interviews-GirlScript-EOP/">DSA for interviews</a></button>
-	<br>
-	<button class="btn btn-sm btn-info"><a href="https://ribtas007.github.io/GS-EOP-C-programming/">C Programming</a></button>
+	<button class="btn btn-sm btn-info" style="padding-top: 50px;"><a href="https://py93.github.io/DSA-for-Interviews-GirlScript-EOP/">DSA for interviews</a></button>
+	&nbsp;
+	<button class="btn btn-sm btn-info" style="padding-top: 50px;" ><a href="https://ribtas007.github.io/GS-EOP-C-programming/">C Programming</a></button>
 </p>
 
 
