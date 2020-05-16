@@ -51,7 +51,7 @@ body {
 /* Center website */
 .main {
   max-width: 1000px;
-  margin: 0px;
+  margin: auto;
 }
 
 h1 {
