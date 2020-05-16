@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 subtitle: Let's get connected
+css: "/css/aboutme.css"
 ---
 
 <form action="https://formspree.io/ribtas007@outlook.com" method="POST" class="form" id="contact-form">
