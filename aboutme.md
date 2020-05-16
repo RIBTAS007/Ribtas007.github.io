@@ -47,9 +47,9 @@ css: "/css/aboutme.css"
 </p>
 
 <p class="about-text">
-	<button class="btn btn-sm btn-info" style="margin-top: 50px;"><a href="https://py93.github.io/DSA-for-Interviews-GirlScript-EOP/">DSA for interviews</a></button>
+	<button class="btn btn-sm btn-info"><a href="https://py93.github.io/DSA-for-Interviews-GirlScript-EOP/" style="color: white;"><b>DSA for interviews</b></a></button>
 	&nbsp;
-	<button class="btn btn-sm btn-info" style="margin-top: 50px;" ><a href="https://ribtas007.github.io/GS-EOP-C-programming/">C Programming</a></button>
+	<button class="btn btn-sm btn-info" style="margin-top: 20px;" ><a href="https://ribtas007.github.io/GS-EOP-C-programming/" style="color: white;" ><b>C Programming</b></a></button>
 </p>
 
 
