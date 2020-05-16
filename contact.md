@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Satbir
+title: Contact me
 subtitle: Let's get connected
 css: "/css/aboutme.css"
 ---
