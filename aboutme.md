@@ -93,6 +93,4 @@ css: "/css/aboutme.css"
 	Completed the <b>Front End Web Development</b> certification course in 2017 from <a href="https://www.freecodecamp.org/">freecodecamp.org</a>
 </p>
 
-
-
 </div>
