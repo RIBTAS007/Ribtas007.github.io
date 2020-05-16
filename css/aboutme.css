@@ -4,7 +4,7 @@
 
 .about-text {
   position: relative;
-  margin-left: 30px;
+ 
 }
 
 .about-icon {
@@ -15,12 +15,12 @@
 }
 
 #aboutme-section p:last-child {
-  margin-bottom: 0;
+  
 }
 
 #contactme-section {
   font-size: 19px;
-  margin-top: 20px;
+ 
 }
 
 #contactme-section h1 {
@@ -28,11 +28,11 @@
 }
 
 #contact-form p {
-  margin-bottom: 10px;
+  
 }
 
 #contact-form .form-control {
-  margin-bottom: 15px;
+  
 }
 
 * {
@@ -41,15 +41,15 @@
 
 body {
   background-color: white;
-  padding: 20px;
+ 
   font-family: Arial;
 }
 
 /* Fun Stuff section */
 /* Center website */
 .main {
-  max-width: 1000px;
-  margin: auto;
+  max-width: auto;
+  
 }
 
 h1 {
@@ -57,9 +57,7 @@ h1 {
   word-break: break-all;
 }
 
-.row {
-  margin: 8px -16px;
-}
+
 
 /* Add padding BETWEEN each column (if you want) */
 .row,
@@ -84,7 +82,7 @@ h1 {
 /* Content */
 .content {
   background-color: white;
-  padding: 10px;
+  
 }
 
 /* The "show" class is added to the filtered elements */
