@@ -9,6 +9,7 @@ image: /img/project-imgs/Random quote generator.jpg
 ---
 
 
-This app was developed during the free code camp front end development certification course.
-This is a simple application which generates a random quote.With the help of share button you
-can share these quotes directly on twitter You can use the app from link below.
+* This is a simple application that generates a random quote. 
+* You can also share the quotes directly on Twitter by clicking on the Share button.
+* This app was developed during the freeCodeCamp front end web development certification course.
+* You can use the app from the link given below.
