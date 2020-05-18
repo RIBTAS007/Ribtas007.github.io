@@ -16,17 +16,17 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
   <span class="fa fa-graduation-cap about-icon"></span>
-	Graduated in computer science in 2018 and currently I am preparing for <b>GATE</b> exam for pursuing M.Tech from one of the best colleges of <b>INDIA </b>.
-</p>
-
-<p class="about-text">
-  <span class="fa fa-code about-icon"></span>
-  I am interested in Machine Learning and AI. My journey has just begun.   
+	I graduated with a bachelor's degree in computer science and engineering in 2018 and currently I am preparing for <b>GATE</b> for pursuing M.Tech from one of the best colleges of <b>INDIA</b>.
 </p>
 
 <p class="about-text">
   <span class="fa fa-file-text-o about-icon"></span>
   You can download my CV here (<a href="/files/Resume V.5.1.pdf">pdf</a>).
+</p>
+
+<p class="about-text">
+  <span class="fa fa-code about-icon"></span>
+  I  have started exploring the world of Data Science and Machine Learning. My journey has just begun.   
 </p>
 
 <p class="about-text">
@@ -38,12 +38,12 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
   <span class="fa fa-briefcase about-icon"></span>
-	Presently volunteering as a team member for both Jamshedpur chapter and Education Outreach Program at  <a href="https://www.girlscript.tech/home">GirlScript Foundation</a> 
+	Presently volunteering as a team member for the Education Outreach Program and the Jamshedpur chapter at <a href="https://www.girlscript.tech/home">GirlScript Foundation</a> 
 </p>
 
 <p class="about-text">
   <span class="fa fa-briefcase about-icon"></span>
-	Mentored for two courses in the Education Outreach Program powered by <a href="https://www.girlscript.tech/home">GirlScript Foundation</a> . Check them out by clicking the link given below
+	Mentored for two courses in the Education Outreach Program powered by <a href="https://www.girlscript.tech/home">GirlScript Foundation</a>. Check them out by clicking the link given below
 </p>
 
 <p class="about-text">
@@ -68,29 +68,31 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
   <span class="fa fa-briefcase about-icon"></span>
-  Interned at <b>Tata Technologies Limited, Jamshedpur</b>, worked in a web development team.
+  Interned at <b>Tata Technologies Limited, Jamshedpur</b>, worked in the web development team.
 </p>
 
 <h2> Certifications </h2>
 	
 <p class="about-text">
   <span class="fa fa-star about-icon"></span>
-   Qualified GATE 2018, GATE 2019 and GATE 2020.   
+   Qualified GATE 2018, GATE 2019, and GATE 2020.   
 </p> 
 
 <p class="about-text">
   <span class="fa fa-code about-icon"></span>
-	Completed <b>The fundamentals of Digital Marketing Course</b> by <b>Google</b> in 2019
+	Completed <b>The fundamentals of Digital Marketing Course</b> by <b>Google</b> in 2019.
 </p>
 
 <p class="about-text">
   <span class="fa fa-code about-icon"></span>
-	I enrolled in <b>PHP and MySQL</b> training in 2017. This training was offered by the Spoken Tutorial Project, <b>IIT Bombay</b>, funded by National Mission onEducation through ICT, MHRD, Govt., of India
+	Completed the <b>Front End Web Development</b> certification course in 2017 from <a href="https://www.freecodecamp.org/">freecodecamp.org</a>.
 </p>
 
 <p class="about-text">
   <span class="fa fa-code about-icon"></span>
-	Completed the <b>Front End Web Development</b> certification course in 2017 from <a href="https://www.freecodecamp.org/">freecodecamp.org</a>
+	I enrolled in <b>PHP and MySQL</b> training in 2017. This training was offered by the Spoken Tutorial Project, <b>IIT Bombay</b>, funded by National Mission on Education through ICT, MHRD, Govt., of India.
 </p>
+
+
 
 </div>
