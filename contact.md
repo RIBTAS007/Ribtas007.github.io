@@ -10,11 +10,11 @@ css: "/css/aboutme.css"
   <div class="row">
     
     <div class="col-xs-6">
-      <input type="email" name="_replyto" class="form-control input-lg" placeholder="Enter your Email" title="Email">
+      <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email ID" title="Email">
     </div>
     
     <div class="col-xs-6">
-      <input type="text" name="name" class="form-control input-lg" placeholder="Your name please" title="Name">
+      <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name">
     </div>
     
   </div>
