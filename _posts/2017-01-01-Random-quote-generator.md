@@ -2,7 +2,7 @@
 title: "Random Quote Generator"
 start: 2017-01-01
 categories: project
-tags: [Jquery, JS]
+tags: [HTML ,CSS, Bootstrap, JQuery, JS]
 code: https://github.com/RIBTAS007/random-quote-generator-app
 demo: https://ribtas007.github.io/random-quote-generator-app/
 image: /img/project-imgs/Random quote generator.jpg
