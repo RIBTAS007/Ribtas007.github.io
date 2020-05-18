@@ -10,6 +10,9 @@ image: /img/project-imgs/Random quote generator.jpg
 
 
 * This is a simple application that generates a random quote. 
+
 * You can also share the quotes directly on Twitter by clicking on the Share button.
+
 * It was developed during the freeCodeCamp front end web development certification course.
+
 * You can use the app from the link given below.
