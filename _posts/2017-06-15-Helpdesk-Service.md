@@ -2,13 +2,13 @@
 title: "Helpdesk Service"
 start: 2017-06-15
 categories: project
-tags: [PHP, JS, Bootstrap]
+tags: [PHP,HTML, CSS, Bootstrap, JS]
 code: https://github.com/RIBTAS007/helpdesk
 demo: https://ribtas007.github.io/helpdesk/
 image: /img/project-imgs/helpdesk.jpg
 ---
+* This application is designed for users to easily register complaints from their customers and help them.
 
+* This application was developed during my internship at Tata Technologies Limited.
 
-This app was developed during my internship at Tata Technologies Limited.
-This is a simple application that helps to register complains from the customers and help them.
-You can use the app from link below.(Note :- this is just a demo , all features will not work)
+* You can use the application from the link given below. ( Note:- this is just a demo version, all features will not work )
