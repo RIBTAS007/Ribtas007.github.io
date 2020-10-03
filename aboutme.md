@@ -16,7 +16,7 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
   <span class="fa fa-graduation-cap about-icon"></span>
-	I graduated with a bachelor's degree in computer science and engineering in 2018 and currently I am preparing for <b>GATE</b> for pursuing M.Tech from one of the best colleges of <b>INDIA</b>.
+	I graduated with a bachelor's degree in computer science and engineering in 2018 and currently I am pursuing my M.Tech in Artificial Intelligence from <b>IIT Ropar</b>.
 </p>
 
 <p class="about-text">
@@ -38,7 +38,17 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
   <span class="fa fa-briefcase about-icon"></span>
-	Presently volunteering as a team member for the Education Outreach Program and the Jamshedpur chapter at <a href="https://www.girlscript.tech/home">GirlScript Foundation</a> 
+	I have worked with more than five organizations. 
+</p>
+
+<p class="about-text">
+  <span class="fa fa-briefcase about-icon"></span>
+	Presently volunteering as a Coding mentor for <a href="https://www.girlscript.tech/home">GirlScript Foundation</a> Jamshedpur Chapter.
+</p>
+
+<p class="about-text">
+  <span class="fa fa-briefcase about-icon"></span>
+	I am also working as a Community Development Volunter at <a href="https://www.tcol2020.com">The Circle of Legends</a> 
 </p>
 
 <p class="about-text">
