@@ -43,7 +43,7 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
   <span class="fa fa-briefcase about-icon"></span>
-	Presntly working as a freelance Web Developer.
+	Presently I am working as a freelance Web Developer and Content Writer.
 </p>
 
 <p class="about-text">
