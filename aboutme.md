@@ -7,6 +7,15 @@ css: "/css/aboutme.css"
 ---
 <div id="aboutme-section">
 	
+	<h2> Education </h2>
+	
+	<p> IIT Ropar </p>   <p style="float:right;"> Sept 2020 - May 2022 </p> 
+	<p> Master of Technology in Artificial Intelligence </p>
+	
+        <p> IIT Ropar </p>  <p style="float:right;"> Sept 2020 - May 2022 </p> 
+	<p> Master of Technology in Artificial Intelligence </p>
+	
+	
 <h2> Introduction </h2>
 
 <p class="about-text">
