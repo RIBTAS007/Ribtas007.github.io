@@ -16,7 +16,7 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
   <span class="fa fa-graduation-cap about-icon"></span>
-	I graduated with a bachelor's degree in computer science and engineering in 2018 and currently I am pursuing my M.Tech in Artificial Intelligence from <b>IIT Ropar</b>.
+	I graduated with a Bachelor's degree in Computer Science and Engineering in 2018 and currently I am pursuing my M.Tech in Artificial Intelligence from <b>IIT Ropar</b>.
 </p>
 
 <p class="about-text">
