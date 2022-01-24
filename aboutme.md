@@ -43,17 +43,12 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
   <span class="fa fa-briefcase about-icon"></span>
-	Presently volunteering as a Coding mentor for <a href="https://www.girlscript.tech/home">GirlScript Foundation</a> Jamshedpur Chapter.
+	Presntly working as a freelance Web Developer.
 </p>
 
 <p class="about-text">
   <span class="fa fa-briefcase about-icon"></span>
-	I am also working as a Community Development Volunter at <a href="https://www.tcol2020.com">The Circle of Legends</a> 
-</p>
-
-<p class="about-text">
-  <span class="fa fa-briefcase about-icon"></span>
-	Mentored for two courses in the Education Outreach Program powered by <a href="https://www.girlscript.tech/home">GirlScript Foundation</a>. Check them out by clicking the link given below
+	Mentored two courses in the Education Outreach Program powered by <a href="https://www.girlscript.tech/home">GirlScript Foundation</a>. Check them out by clicking the link given below
 </p>
 
 <p class="about-text">
