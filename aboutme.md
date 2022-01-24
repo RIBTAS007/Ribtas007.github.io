@@ -13,12 +13,11 @@ css: "/css/aboutme.css"
 <div class="left"><p> IIT Ropar </p></div>
 <div class="right"><p>Sept 2020 - May 202 </p></div>
 	
-<p>
-Master of Technology in Artificial Intelligence 
-</p>	
+<p> Master of Technology in Artificial Intelligence </p>	
 	
-<p> IIT Ropar </p>
-<p> Sept 2020 - May 2022 </p> 
+<div class="left"><p> IIT Ropar </p></div>
+<div class="right"><p>Sept 2020 - May 202 </p></div>
+	
 <p> Master of Technology in Artificial Intelligence </p>
 		
 <h2> Introduction </h2>
