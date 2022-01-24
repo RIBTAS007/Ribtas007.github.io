@@ -11,7 +11,7 @@ css: "/css/aboutme.css"
 
 
 <p style="float: left; width: 50%; margin-bottom:0;">IIT Ropar </p>
-<p  style="float: right; width: 50%; margin-bottom:0;">Sept 2020 - May 2022</p>
+<p  style="float: right; width: 50%; margin-bottom:0; margin-right:0;">Sept 2020 - May 2022</p>
 	
 <p style="margin : 0; padding-top:0;"> Master of Technology in Artificial Intelligence </p>	
 			
