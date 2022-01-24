@@ -5,15 +5,7 @@ meta-title: About me
 subtitle: <b>"Dread it, run from it, Destiny still arrives."</b>
 css: "/css/aboutme.css"
 ---
-<div id="aboutme-section">
-	
-<h2> Education </h2>
-
-
-<p style="float: left; width: 50%; margin-bottom:0;">IIT Ropar </p>
-<p  style="float: right; width: 50%; margin-bottom:0; margin-right:0;">Sept 2020 - May 2022</p>
-	
-<p style="margin : 0; padding-top:0;"> Master of Technology in Artificial Intelligence </p>	
+<div id="aboutme-section">	
 			
 <h2> Introduction </h2>
 
