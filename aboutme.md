@@ -21,7 +21,7 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
   <span class="fa fa-file-text-o about-icon"></span>
-  You can download my CV here (<a href="/files/Resume.pdf">pdf</a>).
+  <!--You can download my CV here (<a href="/files/Resume.pdf">pdf</a>).-->
 </p>
 
 <p class="about-text">
