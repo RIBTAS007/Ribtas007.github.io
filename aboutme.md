@@ -107,21 +107,21 @@ css: "/css/aboutme.css"
 <!-- Logos Gallery Grid -->
 <div class="row">	
   <div class="content">
-    <img src="/img/logos/FAANG.png" alt="FAANG" style="width:100%">
+    <img src="/img/logos/FAANG.png" alt="FAANG" >
     <h4>FAANG</h4>
   </div>
   <div class="content">
-    <img src="/img/logos/CodXCrypt.png" alt="CodXCrypt" style="width:100%">
-    <h4>CodXCryp</h4>
+    <img src="/img/logos/CodXCrypt.png" alt="CodXCrypt">
+    <h4>CodXCrypt</h4>
   </div>	
 </div>
 <div class="row">
     <div class="content">
-      <img src="/img/logos/Leap.png" alt="Leap" style="width:100%">
+      <img src="/img/logos/Leap.png" alt="Leap" >
       <h4>Leap Club</h4>
     </div>	
     <div class="content">
-      <img src="/img/logos/Rebalance.png" alt="Rebalance" style="width:100%">
+      <img src="/img/logos/Rebalance.png" alt="Rebalance" >
       <h4>Rebalance</h4>
     </div>	
 </div>
