@@ -99,8 +99,6 @@ css: "/css/aboutme.css"
 </p>
 
 </div>
-
-<div id=aboutme-section >
 	
 <p class="about-text">
   <b> &#9734; &#9734; &#9734; LOGOS CREATED FOR FUN &#9734; &#9734; &#9734; </b>
@@ -126,6 +124,4 @@ css: "/css/aboutme.css"
       <img src="/img/logos/Rebalance.png" alt="Rebalance" style="width:100%">
       <h4>Rebalance</h4>
     </div>	
-</div>
-
 </div>
