@@ -10,12 +10,12 @@ tags: [IoT, Blockchain]
 
 The Internet of Things (IoT) is a term that describes the connected devices and sensor technology that uses secure network access and cloud infrastructure to reliably turn data into sound knowledge for individuals, companies, and organizations. Modern IoT architectures needed a combination of clustered and distributed systems, with parallel computing clustered resources deployed as network nodes. At the edge interacting with a heterogeneous mesh topology of devices, to achieve distributed computation and storage over a vast area network. 
 
-![Iot1](https://github.com/RIBTAS007/ribtas007.github.io/files/blogs/Iot/Iot1.jpg)
+
 <img src="{{ site.url }}/files/blogs/Iot/Iot1.jpg" width="100%">
 
 In general, the IoT refers to an environment that captures data from a variety of devices (computers, cars, smartphones, traffic lights, and applications (who might span from a social networking app like Twitter to an e-commerce platform, from a job shop to a traffic control system). Nonetheless, data alone is ineffective. It isn't significant unless it can be interpreted and transformed into information. This data is commonly required to be exchanged with other devices or applications to produce business value. Consequently, we need to trust in the massive amount of data generated and exchanged between systems.  Blockchain-defined technologies like distributed ledgers and smart contracts can help with distributed computing and storage.  Blockchain and its potential for building confidence in distributed environments without authorities' need is a technological innovation with the potential to transform many industries, including the Internet of Things.
 
-![Iot2](https://github.com/RIBTAS007/ribtas007.github.io/files/blogs/Iot/Iot2.jpg)
+
 <img src="{{ site.url }}/files/blogs/Iot/Iot2.jpg" width="100%">
 
 Innovative, connected products' compelling features not only reshape industry profitability, but they can often expand the definition of the industry itself. An industry's overall boundaries widen to provide a group of related products that, because once combined, meet a broader underlying requirement. The function of one product is enhanced with the addition of other related products. Integrating intelligent, connected farm equipment, such as tractors, tillers, and planters, can improve overall equipment performance. As a result, the basis of competition shifts from the functionality of a discrete product to the more extensive product system's performance, in which the firm is only one actor. The manufacturer can now provide a package of connected equipment and related services that improve overall results.
@@ -48,7 +48,7 @@ There are mainly three types of IoT Architectures:
 
 **Centralized systems**: The most popular model for software applications right now is centralized systems. From a single location, centralized structures monitor the operation of individual units and the flow of information. To send and receive information and be ordered, everyone is utterly reliant on the central power. For knowledge exchange, the central network owner acts as a single point of contact. The most significant disadvantage of a centralized network is that it becomes a single point of failure because there is only one central owner. Furthermore, with only one copy stored with the owner, any access to the resource results in an access problem over time.
 
-![Iot3](https://github.com/RIBTAS007/ribtas007.github.io/files/blogs/Iot/Iot3.jpg)
+
 <img src="{{ site.url }}/files/blogs/Iot/Iot3.jpg" width="100%">
 
 **Decentralized Systems**: All of the components of a decentralized, non-distributed (or co-located) system are physically located in the exact location. There are many central owners who have copies of the capital. With a centralized network, this removes the most severe issue of a single point of failure. When there are many owners, they can still access the other nodes' information if one of the central nodes fails. Furthermore, having several owners increases the speed at which they can access data. Decentralized systems are the backbone of parallel and cluster computing. Multiple processors on a network will execute the same instruction set on different parts of the same (shards) or other datasets.
@@ -62,14 +62,14 @@ Thus, a decentralized system is basically a communication network of collection 
 
 **Distributed Systems**: The nodes in a distributed network are not only geographically distributed but also collocated. It prevents centralization. The fundamental principle of the distributed network is that everyone has access, and everyone has fair access. If any active device is connected to the internet and has an IP address, any active such as a laptop, phone, or printer, can serve as a node Binary trees are made up of nodes that are arranged in a tree structure. These transactions will necessitate a significant amount of computing and processing capacity, which means that the average computer's capabilities are insufficient. Every node on the network is given importance, but some nodes perform different functions in terms of network support.
 
-![Iot4](https://github.com/RIBTAS007/ribtas007.github.io/files/blogs/Iot/Iot4.jpg)
+
 <img src="{{ site.url }}/files/blogs/Iot/Iot4.jpg" width="100%">
  
 ## Distributed IoT
 
 A distributed system where nodes are communicating over a communication network and are a collection of mostly autonomous processors (nodes). Then they can have the following characteristics: 
 
-![Iot5](https://github.com/RIBTAS007/ribtas007.github.io/files/blogs/Iot/Iot5.jpg)
+
 <img src="{{ site.url }}/files/blogs/Iot/Iot5.jpg" width="100%">
 
 *	**Usual goal**: the nodes are working to achieve a usual goal that can be achieved using only multiple processor
@@ -79,7 +79,7 @@ A distributed system where nodes are communicating over a communication network 
 *	**Geographical distribution**: the network nodes should avoid any centralization and should be geographically distributed
 *	**Autonomy and heterogeneity**: the network of nodes should be heterogeneous in nature and should be autonomous
 
-![Iot6](https://github.com/RIBTAS007/ribtas007.github.io/files/blogs/Iot/Iot6.jpg)
+
 <img src="{{ site.url }}/files/blogs/Iot/Iot6.jpg" width="100%">
 
 The majority of today's IoT architectures depend on centralized cloud computing. A distributed approach's attractive property is that it can run software in parallel among the nodes and close to where the computing is required, minimizing data transmission between the individual nodes. This approach broadens the definition of "the cloud" beyond data centres to include all computing resources, from massive data centres to consumer devices at the network's edge. In effect, this computing method produces a cloud fabric that is millions of times larger than the current central cloud infrastructure. The result is an emerging swarm of services that use computing resources as required, from edge nodes in clusters to large server nodes in data centres, which provides the protection, privacy, convergence, and enforcement that IoT architectures demand.
@@ -96,7 +96,7 @@ The number of communication rounds needed to complete the task is a crucial comp
 
 ## Conclusion
 
-![Iot7](https://github.com/RIBTAS007/ribtas007.github.io/files/blogs/Iot/Iot7.jpg)
+
 <img src="{{ site.url }}/files/blogs/Iot/Iot7.jpg" width="100%">
 
 Modern IoT architectures needed a combination of clustered and distributed systems in which clusters of parallel computing resources deployed at the edge interact with a collection of network nodes as a mesh topology of heterogeneous devices deployed as to achieve distributed computation and storage over a vast area network. Blockchain-defined technologies like distributed ledgers and smart contracts can help with distributed computing and storage. The Distributed IoT can help to optimize the overall system by removing the cons of centralized system and adding new features that provide flexibility to the overall system.
