@@ -58,11 +58,11 @@ h1 {
 }
 
 /*.row {
-  
+  margin: 8px -16px;
 }*/
 
-.row{
-    margin: 8px -16px;
+.lrow{
+    
     display:flex;
     flex-direction: row;
     justify-content: space-around;
