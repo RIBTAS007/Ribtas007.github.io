@@ -68,12 +68,11 @@ h1 {
     align-items: center;
     text-align: center;
     padding:10px;
-    background: #bbb;
+   
 }
 
 .content img{
     width: 200px;
-    border-radius:50%;
 }
 
 
