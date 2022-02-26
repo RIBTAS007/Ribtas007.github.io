@@ -98,6 +98,34 @@ css: "/css/aboutme.css"
 	I enrolled in <b>PHP and MySQL</b> training in 2017. This training was offered by the Spoken Tutorial Project, <b>IIT Bombay</b>, funded by National Mission on Education through ICT, MHRD, Govt., of India.
 </p>
 
+</div>
 
+<div>
+	
+<p class="about-text">
+  <b> &#9734; &#9734; &#9734; LOGOS CREATED FOR FUN &#9734; &#9734; &#9734; </b>
+  <br />
+
+<!-- Logos Gallery Grid -->
+<div class="row">	
+  <div class="content">
+    <img src="/img/logos/FAANG.png" alt="FAANG" style="width:100%">
+    <h4>FAANG</h4>
+  </div>
+  <div class="content">
+    <img src="/img/logos/CodXCrypt.png" alt="CodXCrypt" style="width:100%">
+    <h4>CodXCryp</h4>
+  </div>	
+</div>
+<div class="row">
+    <div class="content">
+      <img src="/img/logos/Leap.png" alt="Leap" style="width:100%">
+      <h4>Leap Club</h4>
+    </div>	
+    <div class="content">
+      <img src="/img/logos/Rebalance.png" alt="Rebalance" style="width:100%">
+      <h4>Rebalance</h4>
+    </div>	
+</div>
 
 </div>
