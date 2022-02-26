@@ -100,8 +100,7 @@ css: "/css/aboutme.css"
 
 </div>
 	
-<p class="about-text">
-  <b> &#9734; &#9734; &#9734; LOGOS CREATED FOR FUN &#9734; &#9734; &#9734; </b>
+<h2>  Logo Design </h2>
   <br />
 
 <!-- Logos Gallery Grid -->
