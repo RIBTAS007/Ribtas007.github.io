@@ -3,10 +3,12 @@ layout: post
 title: "Introduction to Database Normal Forms"
 description: In this article I will try to give you a brief update regarding normalization in DBMS.
 image: /files/blogs/normalization/normalization.png
-date: 2020-05-21
+date: 2021-12-20
 categories: post
 tags: [Database, Normalization]
 ---
+
+In this article I will try to give you a brief update regarding normalization in DBMS.
 
 ## Abstract
 
