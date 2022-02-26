@@ -100,7 +100,7 @@ css: "/css/aboutme.css"
 
 </div>
 
-<div>
+<div id=aboutme-section >
 	
 <p class="about-text">
   <b> &#9734; &#9734; &#9734; LOGOS CREATED FOR FUN &#9734; &#9734; &#9734; </b>
